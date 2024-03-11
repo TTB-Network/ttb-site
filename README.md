@@ -1,5 +1,8 @@
 # ttb-site
 
+![Vercel](https://vercelbadge.vercel.app/api/TTB-Network/ttb-site)
+![GitHub License](https://img.shields.io/github/license/TTB-Network/ttb-site)
+
 ## 快速开始
 
 ### 创建新博客
