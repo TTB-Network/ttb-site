@@ -1,6 +1,6 @@
 # ttb-site
 
-![Vercel](https://vercelbadge.vercel.app/api/TTB-Network/ttb-site)
+![Vercel](https://vercelbadge.vercel.app/api/ttb-network/ttb-site)
 ![GitHub License](https://img.shields.io/github/license/TTB-Network/ttb-site)
 
 ## 快速开始
